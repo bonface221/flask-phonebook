@@ -14,7 +14,7 @@ class NameForm(FlaskForm):
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'hard guess string'
-app.config['SQLALCHEMY_DATABASE_URI']='postgresql://moringa:oa2exWako@localhost/contacts'
+# database URI removed for saftey purposes
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS']= False
 
 
