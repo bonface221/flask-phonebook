@@ -36,7 +36,7 @@ Please create a pull request here: https://github.com/bonface221/flask-phonebook
 ### Link to view the app (heroku)
 i'm yet to deploy
 
-## License ([MIT License](./LICENSE))
+### License ([MIT License](./LICENSE))
 
 This project is licensed under the MIT Open Source license, (c) bonface221
 
