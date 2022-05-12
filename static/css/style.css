@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Merienda+One&family=Nunito:wght@200;300;400;500;600&display=swap");
+
+* {
+	font-family: "Nunito", sans-serif;
+}
+h1 {
+	font-size: 5.5rem;
+	font-family: "Merienda One", cursive;
+	color: #333;
+	text-transform: capitalize;
+}
+span {
+	text-decoration: underline;
+	font-family: "Merienda One", cursive;
+	color: #666;
+}
+.p {
+	color: #333;
+}
+.head {
+	font-size: 2.7rem;
+
+}
