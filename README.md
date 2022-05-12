@@ -2,7 +2,7 @@
 
 ## Author
 
-[Raphael Katana](https://github.com/bonface221)
+[Bonface221](https://github.com/bonface221)
 
 ## Description
 
