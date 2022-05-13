@@ -14,7 +14,7 @@ class NameForm(FlaskForm):
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'hard guess string'
-# database URI removed for saftey purposes
+app.config['SQLALCHEMY_DATABASE_URI']='your database goes here'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS']= False
 
 
